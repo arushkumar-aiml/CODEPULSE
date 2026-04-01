@@ -44,3 +44,7 @@ Role: Core Development, Architecture
 **Ayushi Shukla**  
 B.Tech Mechanical Engineering  
 Role: Product Strategy, Testing & Features  
+**Aakash bajpai**
+B.Tech Computer Science (AI &ML)
+**Hamza Hasan**
+B.Tech Computer Science 
